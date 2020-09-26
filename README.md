@@ -2,5 +2,5 @@ Using the Covid19 Database - https://www.kaggle.com/sudalairajkumar/covid19-in-i
 
 We aim to provide essential information to citizens - Important news, helpline numbers, instructions and risk of infection.
 
-This can also act as an API to extract pictorial representations of graphs. 
+This can also act as an API to extract pictorial representations of the current situation based on different filters in real time. 
 
